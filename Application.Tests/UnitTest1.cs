@@ -1,4 +1,4 @@
-﻿namespace Application.Tests
+﻿namespace TaskBoard.Application.Tests
 {
     public class UnitTest1
     {

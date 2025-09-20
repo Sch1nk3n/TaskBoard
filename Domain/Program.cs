@@ -1,4 +1,4 @@
-﻿namespace Domain
+﻿namespace TaskBoard.Domain
 {
     internal class Program
     {

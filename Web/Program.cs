@@ -1,6 +1,6 @@
-using Web.Components;
+using TaskBoard.Web.Components;
 
-namespace Web
+namespace TaskBoard.Web
 {
     public class Program
     {

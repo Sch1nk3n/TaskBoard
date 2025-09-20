@@ -1,4 +1,4 @@
-﻿namespace Api.Tests
+﻿namespace TaskBoard.WebAPI.Tests
 {
     public class UnitTest1
     {

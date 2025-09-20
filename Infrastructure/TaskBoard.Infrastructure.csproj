@@ -12,9 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Application\Application.csproj" />
-    <ProjectReference Include="..\Domain\Domain.csproj" />
-    <ProjectReference Include="..\Shared\Shared.csproj" />
+    <ProjectReference Include="..\Application\TaskBoard.Application.csproj" />
+    <ProjectReference Include="..\Domain\TaskBoard.Domain.csproj" />
+    <ProjectReference Include="..\Shared\TaskBoard.Shared.csproj" />
   </ItemGroup>
 
 </Project>

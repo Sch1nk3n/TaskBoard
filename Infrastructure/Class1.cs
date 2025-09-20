@@ -1,4 +1,4 @@
-﻿namespace Infrastructure
+﻿namespace TaskBoard.Infrastructure
 {
     public class Class1
     {
