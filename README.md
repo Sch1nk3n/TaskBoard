@@ -1,5 +1,5 @@
-# Blazor-Template
-This is a template repo for future Blazor Web-Apps.
+# TaskBoard - A Blazor WebApp
+This is a Blazor Web-App where you can set up and manage tasks.
  
 ## Stack
 [![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet)](https://dotnet.microsoft.com/) 
