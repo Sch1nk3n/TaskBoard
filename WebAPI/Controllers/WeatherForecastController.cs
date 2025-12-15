@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using TaskBoard.WebAPI;
 
-namespace WebAPI.Controllers
+namespace TaskBoard.WebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

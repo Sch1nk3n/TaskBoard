@@ -1,5 +1,4 @@
-
-namespace WebAPI
+namespace TaskBoard.WebAPI
 {
     public class Program
     {
