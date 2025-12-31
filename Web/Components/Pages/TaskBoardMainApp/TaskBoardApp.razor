@@ -1,0 +1,10 @@
+﻿@page "/taskboard"
+@rendermode InteractiveServer
+
+<PageTitle>TaskBoard</PageTitle>
+
+<h1>TaskBoard</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
