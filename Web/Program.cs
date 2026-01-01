@@ -1,4 +1,4 @@
-using TaskBoard.Web.Components;
+using TaskBoard.Web.BaseComponents;
 
 namespace TaskBoard.Web
 {
@@ -11,6 +11,8 @@ namespace TaskBoard.Web
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
+
+            builder.Services.AddBlazorBootstrap();
 
             var app = builder.Build();
 
